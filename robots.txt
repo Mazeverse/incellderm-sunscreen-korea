@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://incellderm-sunscreen-korea.vercel.app/sitemap.xml
